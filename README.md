@@ -1,7 +1,7 @@
 # Logo Classifier
 * Welcome
-
   To create a simple and reliable Logo Classifier program using Tensorflow in the Python Programming Language.
+  
   ![Image](https://i.imgur.com/qPZCVsY.png)  
   
 * Setup
