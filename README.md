@@ -36,11 +36,11 @@
 
 * Select the image or cancel the file picker to activate camera 
       
-      ![Step1](https://i.imgur.com/tapxpvJ.png)
+     ![Step1](https://i.imgur.com/tapxpvJ.png)
       
-      ![Step2](https://i.imgur.com/QMMapMg.png)
+     ![Step2](https://i.imgur.com/QMMapMg.png)
       
-      ![Step3](https://i.imgur.com/mbgO3NX.png)
+     ![Step3](https://i.imgur.com/mbgO3NX.png)
       
   That's enough for now!
   Do STAR this Repo if you really like this!
