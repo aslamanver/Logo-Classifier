@@ -1,12 +1,10 @@
 # Logo Classifier #
 **Author:** Aslam Anver
-
 * To create a simple and reliable Logo Classifier program using Tensorflow in the Python Programming Language.
   
   ![Image](https://i.imgur.com/qPZCVsY.png)  
   
 ## Installation ##
-
   You will need to install Tensorflow and Python on your Machine.
   To install tensorflow, hit the following in the terminal:
   
@@ -31,9 +29,7 @@
   
   NOTE: You must have a WebCamera, If you choose webcam as your input device or you can choose an image from your directory and predict that.
        
-
-## Installation ##
-
+## Run ##
   To run the classifier, hit the following:
   
       bash run.sh
@@ -50,7 +46,6 @@
       
   
 ## Thank you ##
-
   That's enough for now!
   Do STAR this Repo if you really like this!
 
