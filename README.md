@@ -15,7 +15,7 @@
   That's enough for this.
   Also, you need to clone this Repository, to do so, hit the following:
      
-      git clone https://github.com/aslamanver/Logo-Classifier/
+      git clone https://github.com/aslamanver/Logo-Classifier.git
 
   If you face so many error messages you can install virtual environment such as Anaconda:
   
