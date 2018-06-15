@@ -9,6 +9,9 @@
   You will need to install Tensorflow and Python on your Machine.
   To install tensorflow, hit the following in the terminal:
   
+      sudo apt-get install python3-tk
+      sudo apt-get install python-tk
+      
       pip install tensorflow
       pip install opencv-python
 
