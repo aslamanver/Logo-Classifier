@@ -40,6 +40,8 @@
       
      ![Step2](https://i.imgur.com/QMMapMg.png)
       
+ * Webcamera output
+ 
      ![Step3](https://i.imgur.com/mbgO3NX.png)
       
   That's enough for now!
