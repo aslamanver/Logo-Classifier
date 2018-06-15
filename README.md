@@ -1,6 +1,6 @@
 # Logo Classifier #
 **Author:** Aslam Anver
-* To create a simple and reliable Logo Classifier program using Tensorflow in the Python Programming Language.
+* To create a simple and reliable Logo Classifier deep learning program using Tensorflow in the Python Programming Language.
   
   ![Image](https://i.imgur.com/qPZCVsY.png)  
   
@@ -29,7 +29,7 @@
   
   NOTE: You must have a WebCamera, If you choose webcam as your input device or you can choose an image from your directory and predict that.
        
-## Run ##
+## Usage ##
   To run the classifier, hit the following:
   
       bash run.sh
